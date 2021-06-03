@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation prohibiting the importation of foreign needles.</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25166</idno><idno type="EEBO-CITATION">99884623</idno>
+  <idno type="VID">190739</idno>
+  <idno type="EEBO-PROQUEST">2248524007</idno>
+  
+            <idno type="STC">Wing J367</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.3[17]</idno>
+            <idno type="STC">ESTC R216070</idno>
+            <idno type="PROQUEST">ocm99884623</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884623e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190739)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement C24:1[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation prohibiting the importation of foreign needles.</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, Henry Hills and Thomas Newcomb, printers to the Kings Most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>"Given at our court at Windsor, the fourteenth day of August 1687.".</note>
+                  <note>Steele notation: Arms 101  Commonal- Workmanship the.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Needle-Makers Company (London, England) --  Early works to 1800.</term>
+               <term type="topical_term">Pins and needles --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:190739:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms of England</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </head>
+            <head>By the King, A PROCLAMATION Prohibiting the Importation of Foreign NEEDLES.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as Our late Royal Brother, being Informed by the Master, Wardens and Commonal<g ref="char:EOLhyphen"/>ty of the Art or Mystery of Neédle-makers of the City of <hi>London,</hi> that great quantities of Foreign Neédles were daily Imported into this Kingdom from beyond the Seas, being deceitfully made of Iron Wire altogether unfit for Service, and here new Marked, Papered, and Packed up as if they were made in <hi>England,</hi> and vended and sold in <hi>London,</hi> and other parts of Our Dominions, to the great abuse of the said Art, and to the prejudice and impoverishment of the said Company, they being by their Charter obliged to make their Neédles of Steél, which costs them more without the Workmanship than the Imported Neédles are sold for: For which Reason he was Graciously pleased to Issue forth His Royal Proclamation bearing Date the Fifth day of <hi>April,</hi> in the One and twentieth Year of His Reign, to Prohibit the Importation thereof; And forasmuch as We are also credibly informed that the Import<g ref="char:EOLhyphen"/>ing Neédles (wrought as aforesaid) into this Our Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> is still used to this day, by which means the said Company, with their Wives and Families lie under great Detriment in their said Trade, upon the humble Petition therefore and Complaint of the Master, Wardens and Commonalty of the said Com<g ref="char:EOLhyphen"/>pany, and for the preservation of so useful an Art and Native Manufacture, and better detecting the Enormities afore<g ref="char:EOLhyphen"/>said, We by the Advice of Our Privy Council, have thought fit to Charge, Prohibit and Command, and by this Our Royal Proclamation do strictly Charge, Prohibit and Command, That no Person or Persons, Natives, Aliens, or others, do or shall from henceforth Import, Bring, or Convey, or cause to be Imported, Brought or Conveyed into this Our Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Port or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> from or out of any part or place beyond the Seas, any Neédles of what sort or kind soever, by way of Merchandize, or to be Sold, Bartered, or Exchanged; and that no Person or Persons that now useth or use, or that hereafter shall use the Trade or Occu<g ref="char:EOLhyphen"/>pation of Retailing, Selling or Vttering of Neédles, shall at any time hereafter directly or indirectly Buy, Bargain or Contract for or concerning the Importation of any Neédles of what sort or kind soever, made or to be made in any place beyond the Seas, or Vtter or Sell the same upon pain of such Punishment as by the Law of Our Prerogative Royal may be Inflicted upon the Contemners of Our Royal Authority. And We do further Charge and Com<g ref="char:EOLhyphen"/>mand as well the Commissioners of Our Customs, Comptrollers, Searchers, Waiters, and other Officers of all Our Ports in Our said Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> or Port or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> as also the said Master, Wardens and Commonalty by themselves or their Deputies, and all other Officers and Per<g ref="char:EOLhyphen"/>sons whatsoever, to Seize and Destroy all such Neédles that shall be Imported or Bartered, Sold or Exchanged con<g ref="char:EOLhyphen"/>trary to Our Pleasure herein Declared, in whose hands soever they shall be found, and to be in all other respects dili<g ref="char:EOLhyphen"/>gent and careful in and about the preventing the Importation of Foreign Neédles, and Discovery of the same, and to cause the Offenders to be duly Punished as to Iustice shall appertain, under pain of Forfeiting their respective Pla<g ref="char:EOLhyphen"/>ces and Employments, in case they shall be found negligent or remiss in the Execution of these Our Commands. And We do further streightly Charge and Command all Iustices of the Peace, Mayors, Sheriffs, Bailiffs, Consta<g ref="char:EOLhyphen"/>bles, and other Officers whatsoever, to be from time to time Aiding and Assisting in all things requisite for and touching the Observation and Execution of these Our Commands, and that they do from time to time Certifie un<g ref="char:EOLhyphen"/>to the Lords of Our Privy Council, the Names of all such persons whom they shall find to be Offenders against this Our Proclamation, to the end that there may be such further Proceédings against them as shall be agreéable to the utmost Severity of the Law in such Cases.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Windsor,</hi>
+                  </hi>
+                  <date>
+                     <hi>the Fourteenth Day of <hi>August</hi>
+                     </hi> 1687. <hi>In the Third Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <hi>GOD SAVE THE KING.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill, Henry Hills</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings most Excellent Majesty, 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
